@@ -1,0 +1,10 @@
+fecha,hora,paciente,estado
+2024-11-01,09:00,Ana,asistió
+2024-11-01,10:00,Luis,ausente
+2024-11-01,11:00,María,asistió
+2024-11-02,09:00,Pedro,ausente
+2024-11-02,10:00,Sofía,canceló
+2024-11-02,11:00,Lucas,asistió
+2024-11-03,09:00,Carla,ausente
+2024-11-03,10:00,Juan,asistió
+2024-11-03,11:00,Julia,canceló
