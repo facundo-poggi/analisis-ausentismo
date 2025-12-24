@@ -11,8 +11,10 @@ def contador_estados(data):
     for linea in data:
         linea_limpia = linea.strip()
         partes = linea_limpia.split(",")
+        if len(partes) < 4:
+            continue
 
-        estado = partes[3]
+        estado = partes[3].strip()
 
         if estado == "asistió":
             asistencias += 1
